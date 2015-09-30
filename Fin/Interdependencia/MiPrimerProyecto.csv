@@ -1,0 +1,7 @@
+NIVEL,NOMBRE,EDITABLE,DURACION,PERSONAS,DEPENDENCIAS,FECHAINICIO,FECHAFINAL
+0,MiPrimerProyecto,false,0.0,Responsable&Autoriza&Supervisa&Informa,0,1991/11/1,1991/11/1
+0#1,Realizar un wbs,false,0.0,Responsable&Autoriza&Supervisa&Informa,0,1991/11/1,1991/11/1
+0#2,Crear una ciudad,true,0.0,Responsable&Autoriza&Supervisa&Informa,0&0#3#1,1991/11/1,1991/11/1
+0#3,Ver la cena,false,0.0,Responsable&Autoriza&Supervisa&Informa,0&0#2,1991/11/1,1991/11/1
+0#3#1,Comer,false,0.0,Responsable&Autoriza&Supervisa&Informa,0,1991/11/1,1991/11/1
+0#3#2,Cenar,true,0.0,Responsable&Autoriza&Supervisa&Informa,0,1991/11/1,1991/11/1
